@@ -1,0 +1,69 @@
+section {
+		display: inline-block;
+		width: 350px;
+		vertical-align: top;
+		padding: 0 8px 0 0;
+}
+aside {
+		display: inline-block;
+		width: 600px;
+		padding: 0  0 0 8px;
+		border-left: solid 1px gray;
+}
+#link {
+	background: silver;
+	height: 580px;
+}
+body {
+	font-family: georgia, sans-serif;
+	
+	
+}
+
+	.naslov {
+		font-weight: 900;
+	}
+	.zagrade {
+		font-style: italic;
+		letter-spacing: 2px;
+	}
+	p {
+		text-align: justify;
+		text-indent: 50px;
+	}
+#textcomplite {
+		width: 900px;
+		margin: 0 auto;
+		padding: auto;
+		
+}
+table {
+	border: solid 1px;
+	border-collapse: collapse;
+	width: 90%;
+	margin: 0 auto;
+}
+
+th {
+	padding: 20px;
+	text-indent: center;
+	font-weight: 900px;
+}
+td {
+	padding:16px;
+	
+}
+
+th,td {
+	border: solid 1px black;
+}
+#education {
+	width: 900px;
+	margin: 0 auto;
+	padding: auto;
+}
+#coils {
+	width: 900px;
+	margin: 0 auto;
+	padding: auto;
+}
